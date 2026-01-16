@@ -81,7 +81,7 @@ I'm always open to discussing technology, leadership, and new opportunities:
 
 - **Email:** amira_issa@hotmail.co.uk
 - **LinkedIn:** [linkedin.com/in/amira-m-issa-bb82b8184/](https://www.linkedin.com/in/amira-m-issa-bb82b8184/)
-- **Portfolio:** [amira-issa.com](https://amira-issa.com](https://github.com/amira-issa/Portfolio) 
+- **Portfolio:** (https://github.com/amira-issa/Portfolio) 
 
 ---
 
