@@ -81,12 +81,11 @@ I'm always open to discussing technology, leadership, and new opportunities:
 
 - **Email:** amira_issa@hotmail.co.uk
 - **LinkedIn:** [linkedin.com/in/amira-m-issa-bb82b8184/](https://www.linkedin.com/in/amira-m-issa-bb82b8184/)
-- **Portfolio:** [amira-issa.com](https://amira-issa.com) *(coming soon)*
+- **Portfolio:** [amira-issa.com](https://amira-issa.com](https://github.com/amira-issa/Portfolio) 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amira-issa&show_icons=true&theme=radical)
 
-*Note: Replace YOUR_USERNAME with your actual GitHub username after setting up*
